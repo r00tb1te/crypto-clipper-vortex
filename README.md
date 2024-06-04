@@ -16,7 +16,7 @@ When creating a build, use a pump (increase the build to a minimum of 650MB). Fo
  
 
  
-🔸 DM @Admin
+🔸 DM http://t.me/r00tb1te
  
 
 
@@ -38,4 +38,4 @@ When creating a build, use a pump (increase the build to a minimum of 650MB). Fo
 
 💵 Price: 20$
 
-🌶 To Buy DM @
+🌶 To Buy DM http://t.me/r00tb1te
