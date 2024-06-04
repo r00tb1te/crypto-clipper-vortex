@@ -13,7 +13,7 @@
 When creating a build, use a pump (increase the build to a minimum of 650MB). For those who do not like this weight, you can use, for example, 7zip and add the exe to the archive with maximum file compression. Get an archive of only 1-2MB. For the sake of appearance, you can throw different Dlls into the archive. With this approach, I 100% guarantee that Defender will remain silent.
 
  
-🔹 Price: $100 💵
+🔹 Price: $10 💵
  
 
  
