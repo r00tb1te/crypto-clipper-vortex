@@ -1,9 +1,8 @@
 # crypto-clipper-vortex
-
-
-
 💠 Vortex Malware Clipper Standard v2.2 💠 
- 
+
+![image](https://github.com/r00tb1te/crypto-clipper-vortex/assets/171487024/75acd11e-66bb-4134-81d4-305dd89272da)
+
 🔰 Features Added & Updated: 
 🔺 Now, when infected, the build silently adds itself to Windows Defender exceptions without disabling it.
 🔺 Added TON substitution!
@@ -22,6 +21,8 @@ When creating a build, use a pump (increase the build to a minimum of 650MB). Fo
 
 
 💠 Vortex Private Clipper 💠
+
+![image](https://github.com/r00tb1te/crypto-clipper-vortex/assets/171487024/c1ab6ebf-b955-4c77-9cce-728dd82e1394)
 
 ⚙️ Features:
 🔛 Hidden Install Build
